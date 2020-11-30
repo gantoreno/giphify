@@ -1,0 +1,11 @@
+* {
+  scroll-behavior: smooth;
+}
+
+div.jumbotron {
+  border-radius: 0px;
+}
+
+p.font-paragraph {
+  font-size: 20px;
+}
