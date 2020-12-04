@@ -9,7 +9,7 @@ Giphify is a web-based utility built with [React](https://reactjs.org) and [Web 
 First, clone the repo:
 
 ```sh
-$ git clone https://github.com/hollandsgabe/giphify.git
+$ git clone https://github.com/gantoreno/giphify.git
 ```
 
 Then, `cd` into the directory:
